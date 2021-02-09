@@ -142,6 +142,10 @@
         "url": "rtmp://58.200.131.2:1935/livetv/cctv14hd"
       },
       {
+        "name": "CGTN-新闻",
+        "url": "rtmp://58.200.131.2:1935/livetv/cctv16"
+      },
+      {
         "name": "CETV-1",
         "url": "rtmp://58.200.131.2:1935/livetv/cetv1"
       },
@@ -458,10 +462,6 @@
       {
         "name": "美国电视频道",
         "url": "rtmp://media3.scctv.net/live/scctv_800"
-      },
-      {
-        "name": "CGTN-新闻",
-        "url": "rtmp://58.200.131.2:1935/livetv/cctv16"
       }
     ]
   }
